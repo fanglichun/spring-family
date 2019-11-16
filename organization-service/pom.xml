@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.flc</groupId>
-    <artifactId>organization</artifactId>
+    <artifactId>organization-service</artifactId>
     <name>organization-service</name>
     <description>organization service provide organization info and so on.</description>
 

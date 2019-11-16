@@ -4,9 +4,8 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/authentication-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/configsvr" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/eurekasrv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekasvr" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/license-service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/organization-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/organization-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zuulsvr" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />

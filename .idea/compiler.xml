@@ -17,13 +17,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="authentication-service" />
-        <module name="configsrv" />
-        <module name="eurekasvr" />
-        <module name="license" />
+        <module name="configsvr" />
         <module name="license-service" />
-        <module name="organization" />
         <module name="organization-service" />
         <module name="zuulsvr" />
+      </profile>
+      <profile name="Annotation profile for spring-family" enabled="true">
+        <sourceOutputDir name="../eurekasrv/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../eurekasrv/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eurekasvr" />
       </profile>
     </annotationProcessing>
   </component>
