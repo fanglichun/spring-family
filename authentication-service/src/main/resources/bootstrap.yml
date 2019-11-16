@@ -1,0 +1,11 @@
+logging:
+  level:
+    com.netflix: WARN
+    org.springframework.web: WARN
+    com.thoughtmechanix: DEBUG
+spring:
+  application:
+    name: authenticationservice
+  profiles:
+    active:
+      default
