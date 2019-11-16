@@ -19,7 +19,9 @@
         <module name="authentication-service" />
         <module name="configsrv" />
         <module name="eurekasvr" />
+        <module name="license" />
         <module name="license-service" />
+        <module name="organization" />
         <module name="organization-service" />
         <module name="zuulsvr" />
       </profile>
